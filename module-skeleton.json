@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-backup-and-restore-flutter",
+  "capabilityKey": "liberusoftware/module-cms-backup-and-restore",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_backup_and_restore_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/backup-and-restore.md",
+  "presentationPlan": "projects/cms/flutter/backup-and-restore.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
